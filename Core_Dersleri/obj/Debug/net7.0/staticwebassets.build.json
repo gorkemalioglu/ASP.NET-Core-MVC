@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "O4zwUds4nrVaCSCgzTxUroQvXTtOLcHAzSz4aQ7ICxI=",
+  "Source": "Core_Dersleri",
+  "BasePath": "_content/Core_Dersleri",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Core_Dersleri\\wwwroot",
+      "Source": "Core_Dersleri",
+      "ContentRoot": "C:\\Users\\GORKEMBEY\\source\\repos\\Core_Dersleri\\wwwroot\\",
+      "BasePath": "_content/Core_Dersleri",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

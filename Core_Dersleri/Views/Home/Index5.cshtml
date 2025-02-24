@@ -1,0 +1,34 @@
+﻿@model List< Core_Dersleri.Models.Kitap>
+@{
+    Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <mata name="viewport" contenteditable="width=device-width" />
+    <title> Index5</title>
+</head>
+<body>
+    <h4>Merhaba Kitap Sayfamıza Hoşgeldiniz</h4>
+    
+    <table class="table table-bordered">
+    @foreach(var k in Model)
+    {
+        <tr>
+            <td>@k.ID</td>
+            <td>@k.KitapAd</td>
+            <td>@k.Yazar</td>
+            <br />
+        </tr>
+
+    }
+    </table>
+    <button class="btn btn-warning">Tablo Listesi</button>
+
+
+</body>
+</html>
+
