@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "yLn8xpMPK1cljU/39JwVaN7MvFWFB7/S5b6CiTfjUac=",
+  "Source": "CoreKitaplik",
+  "BasePath": "_content/CoreKitaplik",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreKitaplik\\wwwroot",
+      "Source": "CoreKitaplik",
+      "ContentRoot": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\",
+      "BasePath": "_content/CoreKitaplik",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\css\\style.css",
+      "SourceId": "CoreKitaplik",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\",
+      "BasePath": "_content/CoreKitaplik",
+      "RelativePath": "web/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ti5wr9dds8",
+      "Integrity": "C00seTgwC8XiKpht1UCXNsBlfcS/mkvVuats+oEChHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\images\\2.jpg",
+      "SourceId": "CoreKitaplik",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\",
+      "BasePath": "_content/CoreKitaplik",
+      "RelativePath": "web/images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tuxol59nng",
+      "Integrity": "ZXqn1wYzPuwO4ctHmZtQxfQ8spZ/LtIEEgxpfqKEZPo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\images\\side.jpg",
+      "SourceId": "CoreKitaplik",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\",
+      "BasePath": "_content/CoreKitaplik",
+      "RelativePath": "web/images/side#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "95z1fw1pks",
+      "Integrity": "01iCQVGRwOT9GKJpnguJFH31kGvh6ub2Mf+WMBQFrYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\side.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\index.html",
+      "SourceId": "CoreKitaplik",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\",
+      "BasePath": "_content/CoreKitaplik",
+      "RelativePath": "web/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lk0refi7ch",
+      "Integrity": "pYUMBaenzCFT16nN+IHdhH7ZOe/zOZKUjmfAAO0JuAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\w3layouts-License.txt",
+      "SourceId": "CoreKitaplik",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\",
+      "BasePath": "_content/CoreKitaplik",
+      "RelativePath": "web/w3layouts-License#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "abk39e1po0",
+      "Integrity": "aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\w3layouts-License.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "web/css/style.css",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C00seTgwC8XiKpht1UCXNsBlfcS/mkvVuats+oEChHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C00seTgwC8XiKpht1UCXNsBlfcS/mkvVuats+oEChHA="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/style.ti5wr9dds8.css",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C00seTgwC8XiKpht1UCXNsBlfcS/mkvVuats+oEChHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ti5wr9dds8"
+        },
+        {
+          "Name": "label",
+          "Value": "web/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C00seTgwC8XiKpht1UCXNsBlfcS/mkvVuats+oEChHA="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/2.jpg",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZXqn1wYzPuwO4ctHmZtQxfQ8spZ/LtIEEgxpfqKEZPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZXqn1wYzPuwO4ctHmZtQxfQ8spZ/LtIEEgxpfqKEZPo="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/2.tuxol59nng.jpg",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZXqn1wYzPuwO4ctHmZtQxfQ8spZ/LtIEEgxpfqKEZPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tuxol59nng"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZXqn1wYzPuwO4ctHmZtQxfQ8spZ/LtIEEgxpfqKEZPo="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/side.95z1fw1pks.jpg",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\images\\side.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01iCQVGRwOT9GKJpnguJFH31kGvh6ub2Mf+WMBQFrYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95z1fw1pks"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/side.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-01iCQVGRwOT9GKJpnguJFH31kGvh6ub2Mf+WMBQFrYs="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/side.jpg",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\images\\side.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01iCQVGRwOT9GKJpnguJFH31kGvh6ub2Mf+WMBQFrYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-01iCQVGRwOT9GKJpnguJFH31kGvh6ub2Mf+WMBQFrYs="
+        }
+      ]
+    },
+    {
+      "Route": "web/index.html",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pYUMBaenzCFT16nN+IHdhH7ZOe/zOZKUjmfAAO0JuAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pYUMBaenzCFT16nN+IHdhH7ZOe/zOZKUjmfAAO0JuAI="
+        }
+      ]
+    },
+    {
+      "Route": "web/index.lk0refi7ch.html",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pYUMBaenzCFT16nN+IHdhH7ZOe/zOZKUjmfAAO0JuAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lk0refi7ch"
+        },
+        {
+          "Name": "label",
+          "Value": "web/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pYUMBaenzCFT16nN+IHdhH7ZOe/zOZKUjmfAAO0JuAI="
+        }
+      ]
+    },
+    {
+      "Route": "web/w3layouts-License.abk39e1po0.txt",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\w3layouts-License.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "abk39e1po0"
+        },
+        {
+          "Name": "label",
+          "Value": "web/w3layouts-License.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas="
+        }
+      ]
+    },
+    {
+      "Route": "web/w3layouts-License.txt",
+      "AssetFile": "C:\\Users\\GORKEMBEY\\source\\repos\\CoreKitaplik\\wwwroot\\web\\w3layouts-License.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 11:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas="
+        }
+      ]
+    }
+  ]
+}

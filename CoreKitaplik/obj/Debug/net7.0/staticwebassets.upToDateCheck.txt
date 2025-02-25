@@ -1,0 +1,5 @@
+wwwroot\web\css\style.css
+wwwroot\web\images\2.jpg
+wwwroot\web\images\side.jpg
+wwwroot\web\index.html
+wwwroot\web\w3layouts-License.txt
